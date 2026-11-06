@@ -1,0 +1,2 @@
+Double-cliquez sur PREVIEW.html pour voir la maquette sans installation.
+Pour travailler sur Astro, consultez README.md et INSTRUCTIONS_CODEX.md.
